@@ -1,0 +1,318 @@
+1664390121349	geckodriver	INFO	Listening on 127.0.0.1:50579
+1664390121857	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50580" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofileVu0Rq8"
+1664390122236	Marionette	INFO	Marionette enabled
+1664390122242	Marionette	INFO	Listening on port 50587
+Read port: 50587
+WebDriver BiDi listening on ws://127.0.0.1:50580
+1664390122378	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofileVu0Rq8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50580/devtools/browser/303180f5-e902-4a38-99a2-6700af252aeb
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664390376051	geckodriver	INFO	Listening on 127.0.0.1:50684
+1664390376563	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50685" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofile1UAeHe"
+1664390377008	Marionette	INFO	Marionette enabled
+1664390377013	Marionette	INFO	Listening on port 50693
+WebDriver BiDi listening on ws://127.0.0.1:50685
+Read port: 50693
+1664390377248	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofile1UAeHe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50685/devtools/browser/9916adad-4c80-4ead-8f6e-552e419b4002
+1664390410770	geckodriver	INFO	Listening on 127.0.0.1:50738
+1664390411260	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50739" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofilexU0qxK"
+1664390411657	Marionette	INFO	Marionette enabled
+1664390411663	Marionette	INFO	Listening on port 50746
+Read port: 50746
+WebDriver BiDi listening on ws://127.0.0.1:50739
+1664390411773	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofilexU0qxK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50739/devtools/browser/57694cf8-8df3-4d1b-b9e0-065a5c660110
+1664390425846	geckodriver	INFO	Listening on 127.0.0.1:50784
+1664390426354	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50785" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofile19TLEW"
+1664390426762	Marionette	INFO	Marionette enabled
+1664390426768	Marionette	INFO	Listening on port 50792
+Read port: 50792
+WebDriver BiDi listening on ws://127.0.0.1:50785
+1664390426892	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofile19TLEW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50785/devtools/browser/b560435e-5265-4ca6-8fd9-244fbb7bf72e
+JavaScript error: https://ratings.tankionline.com/ru/user/EqualMVP, line 77: Error: Loading chunk 6 failed.
+(error: https://ratings.tankionline.com/assets/app-i18n-ru.a66483a2.js)
+1664390601943	Marionette	INFO	Stopped listening on port 50792
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664391112833	geckodriver	INFO	Listening on 127.0.0.1:63298
+1664391113358	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63299" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofilealNhsA"
+1664391113745	Marionette	INFO	Marionette enabled
+1664391113752	Marionette	INFO	Listening on port 63306
+Read port: 63306
+WebDriver BiDi listening on ws://127.0.0.1:63299
+1664391113887	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofilealNhsA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63299/devtools/browser/a04281c5-1027-47e5-aa75-e02f41bafa00
+1664391290678	geckodriver	INFO	Listening on 127.0.0.1:63390
+1664391291186	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63391" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofileROTagY"
+1664391291527	Marionette	INFO	Marionette enabled
+1664391291532	Marionette	INFO	Listening on port 63398
+WebDriver BiDi listening on ws://127.0.0.1:63391
+Read port: 63398
+1664391291777	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofileROTagY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63391/devtools/browser/685b1cb3-8027-4696-9301-60f5e926d95b
+1664391306199	geckodriver	INFO	Listening on 127.0.0.1:55075
+1664391306709	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55076" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofileQ31MRU"
+1664391307070	Marionette	INFO	Marionette enabled
+1664391307076	Marionette	INFO	Listening on port 55083
+Read port: 55083
+WebDriver BiDi listening on ws://127.0.0.1:55076
+1664391307191	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofileQ31MRU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55076/devtools/browser/380eb204-a896-4f6f-ba0c-7bd98d3b458a
+1664391339817	geckodriver	INFO	Listening on 127.0.0.1:55132
+1664391340332	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55133" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofiletiEYyA"
+1664391340677	Marionette	INFO	Marionette enabled
+1664391340683	Marionette	INFO	Listening on port 55140
+WebDriver BiDi listening on ws://127.0.0.1:55133
+Read port: 55140
+1664391340959	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofiletiEYyA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55133/devtools/browser/386b7b64-82db-4297-a4b7-dbe6ad002d98
+1664391573046	geckodriver	INFO	Listening on 127.0.0.1:55241
+1664391573557	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55242" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofilent6JIQ"
+1664391573891	Marionette	INFO	Marionette enabled
+1664391573898	Marionette	INFO	Listening on port 55249
+WebDriver BiDi listening on ws://127.0.0.1:55242
+Read port: 55249
+1664391574141	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofilent6JIQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55242/devtools/browser/c40681a3-1c45-486f-a59f-e0710cdab00c
+1664391595577	geckodriver	INFO	Listening on 127.0.0.1:55294
+1664391596082	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55295" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofileRA0ejc"
+1664391596418	Marionette	INFO	Marionette enabled
+1664391596424	Marionette	INFO	Listening on port 55302
+WebDriver BiDi listening on ws://127.0.0.1:55295
+Read port: 55302
+1664391596671	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofileRA0ejc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55295/devtools/browser/49d7c082-e501-402c-a088-9426b471fd3e
+1664391615196	Marionette	INFO	Stopped listening on port 55302
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 2456, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1664391672718	geckodriver	INFO	Listening on 127.0.0.1:55360
+1664391673226	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55361" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofilelJJHyS"
+1664391673556	Marionette	INFO	Marionette enabled
+1664391673562	Marionette	INFO	Listening on port 55370
+WebDriver BiDi listening on ws://127.0.0.1:55361
+Read port: 55370
+1664391673843	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofilelJJHyS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55361/devtools/browser/ff432520-acce-42c3-91ee-4608212f86ff
+JavaScript error: https://ratings.tankionline.com/ru/user/EqualMVP, line 77: Error: Loading chunk 6 failed.
+(error: https://ratings.tankionline.com/assets/app-i18n-ru.a66483a2.js)
+1664391825223	Marionette	INFO	Stopped listening on port 55370
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "55405" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofile2RIJsZ"
+1664391686796	Marionette	INFO	Marionette enabled
+1664391686802	Marionette	INFO	Listening on port 55413
+Read port: 55413
+WebDriver BiDi listening on ws://127.0.0.1:55405
+1664391686919	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofile2RIJsZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55405/devtools/browser/31804d54-95f5-4d90-8403-98fb11554650
+1664391825826	Marionette	INFO	Stopped listening on port 55413
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "55455" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofilet2M9Kw"
+1664391716842	Marionette	INFO	Marionette enabled
+1664391716847	Marionette	INFO	Listening on port 55462
+WebDriver BiDi listening on ws://127.0.0.1:55455
+Read port: 55462
+1664391717126	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofilet2M9Kw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55455/devtools/browser/05c78b49-8cef-4ae0-a007-18b45c45926e
+1664391769762	geckodriver	INFO	Listening on 127.0.0.1:55506
+1664391770273	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55507" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofileuONRju"
+1664391770638	Marionette	INFO	Marionette enabled
+1664391770646	Marionette	INFO	Listening on port 55514
+Read port: 55514
+WebDriver BiDi listening on ws://127.0.0.1:55507
+1664391770774	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofileuONRju\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55507/devtools/browser/61537db0-e900-41c3-9a06-d46c330622ff
+JavaScript error: https://ratings.tankionline.com/ru/user/EqualMVP, line 77: Error: Loading chunk 6 failed.
+(error: https://ratings.tankionline.com/assets/app-i18n-ru.a66483a2.js)
+1664391826311	Marionette	INFO	Stopped listening on port 55514
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "55553" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofileF5Nsab"
+1664391793535	Marionette	INFO	Marionette enabled
+1664391793541	Marionette	INFO	Listening on port 55561
+Read port: 55561
+WebDriver BiDi listening on ws://127.0.0.1:55553
+1664391793679	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofileF5Nsab\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55553/devtools/browser/c0984778-137d-4da6-8e8f-2f739f3d4b3f
+1664391827035	Marionette	INFO	Stopped listening on port 55561
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "55599" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofileMIXmoN"
+1664391824191	Marionette	INFO	Marionette enabled
+1664391824197	Marionette	INFO	Listening on port 55607
+Read port: 55607
+WebDriver BiDi listening on ws://127.0.0.1:55599
+1664391824344	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofileMIXmoN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55599/devtools/browser/0a293fa3-e9e3-49ea-9c4a-ca8a053cc223
+1664391878550	geckodriver	INFO	Listening on 127.0.0.1:55651
+1664391879056	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55652" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofile129gQT"
+1664391879380	Marionette	INFO	Marionette enabled
+1664391879386	Marionette	INFO	Listening on port 55659
+WebDriver BiDi listening on ws://127.0.0.1:55652
+Read port: 55659
+1664391879675	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofile129gQT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55652/devtools/browser/cc0378fb-f230-42b1-a23c-c6cdd9d11986
+1664391923225	geckodriver	INFO	Listening on 127.0.0.1:55702
+1664391923730	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55703" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofileqdGqCA"
+1664391924087	Marionette	INFO	Marionette enabled
+1664391924092	Marionette	INFO	Listening on port 55711
+Read port: 55711
+WebDriver BiDi listening on ws://127.0.0.1:55703
+1664391924226	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofileqdGqCA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55703/devtools/browser/87f5eb4f-e61b-40e3-b7ab-0e45e41d5ad0
+1664391977666	geckodriver	INFO	Listening on 127.0.0.1:55766
+1664391978192	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55767" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofileNvl4vv"
+1664391978534	Marionette	INFO	Marionette enabled
+1664391978539	Marionette	INFO	Listening on port 55775
+WebDriver BiDi listening on ws://127.0.0.1:55767
+Read port: 55775
+1664391978814	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofileNvl4vv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55767/devtools/browser/fc8f9522-b6c4-4b4e-94a8-dd4a978faaa1
+1664392041966	geckodriver	INFO	Listening on 127.0.0.1:55847
+1664392042470	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55848" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofileq0mJTs"
+1664392042795	Marionette	INFO	Marionette enabled
+1664392042800	Marionette	INFO	Listening on port 55855
+Read port: 55855
+WebDriver BiDi listening on ws://127.0.0.1:55848
+1664392042909	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofileq0mJTs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55848/devtools/browser/99226bfc-202a-412b-a6e8-fc3e762d91fd
+1664392074024	geckodriver	INFO	Listening on 127.0.0.1:55908
+1664392074528	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55909" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofile6QrLhI"
+1664392074877	Marionette	INFO	Marionette enabled
+1664392074883	Marionette	INFO	Listening on port 55916
+WebDriver BiDi listening on ws://127.0.0.1:55909
+Read port: 55916
+1664392075010	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofile6QrLhI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55909/devtools/browser/078f1ea2-3dee-449a-aae7-c3fc7ae24595
+1664392094274	geckodriver	INFO	Listening on 127.0.0.1:55948
+1664392094781	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55949" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofilebl6GGw"
+1664392095115	Marionette	INFO	Marionette enabled
+1664392095121	Marionette	INFO	Listening on port 55956
+WebDriver BiDi listening on ws://127.0.0.1:55949
+Read port: 55956
+1664392095356	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofilebl6GGw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55949/devtools/browser/30c575f6-7edf-464c-be22-265c299e372f
+1664392118765	geckodriver	INFO	Listening on 127.0.0.1:55989
+1664392119271	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55990" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofile9SpQKO"
+1664392119597	Marionette	INFO	Marionette enabled
+1664392119602	Marionette	INFO	Listening on port 55998
+WebDriver BiDi listening on ws://127.0.0.1:55990
+Read port: 55998
+1664392119884	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofile9SpQKO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55990/devtools/browser/576cdd9a-4794-4a8d-85cf-db7fda091195
+1664392808380	Marionette	INFO	Stopped listening on port 55998
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56083" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofileij3ewP"
+1664392323747	Marionette	INFO	Marionette enabled
+1664392323753	Marionette	INFO	Listening on port 56091
+WebDriver BiDi listening on ws://127.0.0.1:56083
+Read port: 56091
+1664392324041	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofileij3ewP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56083/devtools/browser/62e86ce9-7d17-439f-9b72-f48b2c1061d3
+1664392807577	Marionette	INFO	Stopped listening on port 56091
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56149" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofilec39Kpn"
+1664392501363	Marionette	INFO	Marionette enabled
+1664392501369	Marionette	INFO	Listening on port 56157
+WebDriver BiDi listening on ws://127.0.0.1:56149
+Read port: 56157
+1664392501625	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofilec39Kpn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56149/devtools/browser/62b350b5-ac4f-4bcd-8c5a-cfe65ffbc813
+1664392806689	Marionette	INFO	Stopped listening on port 56157
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 17060, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+l\\Temp\\rust_mozprofileQ4K0zK"
+1664392673621	Marionette	INFO	Marionette enabled
+1664392673627	Marionette	INFO	Listening on port 56253
+WebDriver BiDi listening on ws://127.0.0.1:56245
+Read port: 56253
+1664392673910	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofileQ4K0zK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56245/devtools/browser/5d188ad8-8282-4e55-9650-b313f084a215
+1664392805532	Marionette	INFO	Stopped listening on port 56253
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 23920, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+l\\Temp\\rust_mozprofilermudR2"
+1664392739569	Marionette	INFO	Marionette enabled
+1664392739576	Marionette	INFO	Listening on port 56316
+Read port: 56316
+WebDriver BiDi listening on ws://127.0.0.1:56309
+1664392739761	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofilermudR2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56309/devtools/browser/da1c6257-0819-4ff1-a48c-8897d86f4cc1
+1664392804635	Marionette	INFO	Stopped listening on port 56316
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56357" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofilelP6YH5"
+1664392750027	Marionette	INFO	Marionette enabled
+1664392750032	Marionette	INFO	Listening on port 56365
+WebDriver BiDi listening on ws://127.0.0.1:56357
+Read port: 56365
+1664392750281	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofilelP6YH5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56357/devtools/browser/dc9e2a1f-d917-4669-bc4f-61b55eb46039
+1664392871125	Marionette	INFO	Stopped listening on port 56365
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56435" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofile3Bkb3x"
+1664392835585	Marionette	INFO	Marionette enabled
+1664392835590	Marionette	INFO	Listening on port 56443
+Read port: 56443
+WebDriver BiDi listening on ws://127.0.0.1:56435
+1664392835739	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofile3Bkb3x\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56435/devtools/browser/7fa7bdab-79ec-47da-9847-85792abe565d
+1664392871821	Marionette	INFO	Stopped listening on port 56443
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56479" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofileHN6OLx"
+1664392862171	Marionette	INFO	Marionette enabled
+1664392862176	Marionette	INFO	Listening on port 56489
+Read port: 56489
+WebDriver BiDi listening on ws://127.0.0.1:56479
+1664392862335	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofileHN6OLx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56479/devtools/browser/eb30e2bb-66e7-4689-bf5f-32ba25579c05
+1664392872507	Marionette	INFO	Stopped listening on port 56489
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 19932, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1664392891972	geckodriver	INFO	Listening on 127.0.0.1:56529
+1664392892475	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56530" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofileLZMWmp"
+1664392892811	Marionette	INFO	Marionette enabled
+1664392892816	Marionette	INFO	Listening on port 56537
+WebDriver BiDi listening on ws://127.0.0.1:56530
+Read port: 56537
+1664392893051	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofileLZMWmp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56530/devtools/browser/eefec0e6-b6a7-4d11-897a-eac79c2c75a1
+1664392909662	Marionette	INFO	Stopped listening on port 56537
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664392945318	geckodriver	INFO	Listening on 127.0.0.1:56575
+1664392945829	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56576" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofilePe5qVH"
+1664392946171	Marionette	INFO	Marionette enabled
+1664392946177	Marionette	INFO	Listening on port 56589
+WebDriver BiDi listening on ws://127.0.0.1:56576
+Read port: 56589
+1664392946431	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofilePe5qVH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56576/devtools/browser/e3c62331-9519-4742-a46b-f96b33ed6df3
