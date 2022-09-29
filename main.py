@@ -1,12 +1,13 @@
 from bs4 import BeautifulSoup
 import fake_useragent
 from selenium import webdriver
+import os
 
 #Подмена UserAgent
 useragent = fake_useragent.UserAgent().random
 profile = webdriver.FirefoxProfile()
 profile.set_preference("general.useragent.override", useragent)
-driver = webdriver.Firefox(firefox_profile=profile,executable_path=r'geck/geckodriver.exe')
+driver = webdriver.Firefox(firefox_profile=profile,service_log_path=os.devnull, executable_path=r'geck/geckodriver.exe')
 
 #Ссылка + Рефреш
 driver.get("https://ratings.tankionline.com/ru/user/Sniper")
