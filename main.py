@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 from bs4 import BeautifulSoup
 import fake_useragent
 from selenium import webdriver
@@ -29,6 +30,55 @@ print(f"Exp: {progress_one.strip()} / {progress_two.strip()}")
 
 # сделать нормальную обработку и вывода прогресса
 print(f"Exp to rank up: {int(progress_two.strip().replace(' ', ''))-int(progress_one.strip().replace(' ', ''))}")
+=======
+from unittest import main
+import requests
+from bs4 import BeautifulSoup
+import fake_useragent
+from selenium import webdriver
+brw = webdriver.Firefox(executable_path="C:/Users/Madara/Desktop/geckodriver.exe")
+brw.get('https://ratings.tankionline.com/ru/user/EqualMVP')
+brw.get(brw.current_url)
+html = brw.page_source
+
+soup = BeautifulSoup(html, 'html.parser')
+main_div = soup.find(class_='user-info-panel__link')
+print(soup)
+
+# main_head = main_div.find('div', class_='user-info-panel__head')
+# nickname = main_head.find('a', class_='user-info-panel__link').text
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> master
 
 
 
