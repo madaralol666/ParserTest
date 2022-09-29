@@ -23,7 +23,7 @@ try:
     email_input = driver.find_element(By.ID,'index_email')
     email_input.click()
     email_input.clear()
-    email_input.send_keys("89646810694")
+    email_input.send_keys("email")
     email_input.send_keys(Keys.ENTER)
 
     time.sleep(3.5)
@@ -32,11 +32,11 @@ try:
     pass_input = driver.find_element(By.ID,'index_pass')
     pass_input.click()
     pass_input.clear()
-    pass_input.send_keys("zxc123457")
+    pass_input.send_keys("password")
     pass_input.send_keys(Keys.ENTER)
 
     time.sleep(2)
-    
+
 #мега мув 3000
     driver.get('https://m.vk.com')
     
