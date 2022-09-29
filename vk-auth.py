@@ -2,6 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import fake_useragent
 import time
+import os
 
 auth_data = '89531945840'
 
@@ -11,7 +12,7 @@ profile = webdriver.FirefoxProfile()
 profile.set_preference("general.useragent.override", useragent)
 # user-agent
 
-driver = webdriver.Firefox(firefox_profile=profile,executable_path=r'geck/geckodriver.exe')
+driver = webdriver.Firefox(firefox_profile=profile, service_log_path=os.devnull, executable_path=r'geck/geckodriver.exe')
 
 try:
     driver.get("https://vk.com/")
