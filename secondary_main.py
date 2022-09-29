@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import fake_useragent
+import os
 
 user = fake_useragent.UserAgent().random
 header = {'user-agent': user}
