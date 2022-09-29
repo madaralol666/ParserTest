@@ -3,6 +3,7 @@ from selenium.webdriver.common.keys import Keys
 import fake_useragent
 import time
 import os
+from selenium.webdriver.common.by import By
 
 auth_data = '89531945840'
 
@@ -16,15 +17,29 @@ driver = webdriver.Firefox(firefox_profile=profile, service_log_path=os.devnull,
 
 try:
     driver.get("https://vk.com/")
-    time.sleep(5)
+    time.sleep(2.3)
 
-    email_input = driver.find_element_by_id("index_email")
+#Ввод логина
+    email_input = driver.find_element(By.ID,'index_email')
     email_input.click()
     email_input.clear()
-    email_input.send_keys("89531945840")
+    email_input.send_keys("89646810694")
     email_input.send_keys(Keys.ENTER)
-    time.sleep(5)
 
+    time.sleep(3.5)
+
+#Ввод пароля
+    pass_input = driver.find_element(By.ID,'index_pass')
+    pass_input.click()
+    pass_input.clear()
+    pass_input.send_keys("zxc123457")
+    pass_input.send_keys(Keys.ENTER)
+
+    time.sleep(2)
+    
+#мега мув 3000
+    driver.get('https://m.vk.com')
+    
 except Exception as ex:
     print(ex)
 # finally:
