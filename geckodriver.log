@@ -2078,3 +2078,8 @@ Read port: 56589
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Madara\\AppData\\Local\\Temp\\rust_mozprofilePe5qVH\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:56576/devtools/browser/e3c62331-9519-4742-a46b-f96b33ed6df3
 >>>>>>> master
+1664471344632	geckodriver	INFO	Listening on 127.0.0.1:60360
+1664471348294	geckodriver	INFO	Listening on 127.0.0.1:60371
+1664471363848	geckodriver	INFO	Listening on 127.0.0.1:60391
+1664471363954	geckodriver	INFO	Listening on 127.0.0.1:60395
+1664471403485	geckodriver	INFO	Listening on 127.0.0.1:60411

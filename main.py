@@ -1,12 +1,14 @@
+from time import sleep
 from bs4 import BeautifulSoup
 import fake_useragent
 from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
 
 #Подмена UserAgent
 useragent = fake_useragent.UserAgent().random
-profile = webdriver.FirefoxProfile()
-profile.set_preference("general.useragent.override", useragent)
-driver = webdriver.Firefox(firefox_profile=profile,executable_path=r'geck/geckodriver.exe')
+options = Options()
+options.add_argument(f'user-agent={useragent}')
+driver = webdriver.Chrome(chrome_options=options, executable_path=r'chrome/chromedriver.exe')
 
 #Ссылка + Рефреш
 driver.get("https://ratings.tankionline.com/ru/user/Sniper")
