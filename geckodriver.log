@@ -1,0 +1,1653 @@
+1664435685485	geckodriver	INFO	Listening on 127.0.0.1:35575
+1664435686054	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49099" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile52THpg"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664435687099	Marionette	INFO	Marionette enabled
+1664435687106	Marionette	INFO	Listening on port 35809
+Read port: 35809
+WebDriver BiDi listening on ws://127.0.0.1:49099
+1664435687320	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile52THpg/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49099/devtools/browser/835031d1-91cb-4cdc-b9ee-b98ef647ad32
+1664435769888	geckodriver	INFO	Listening on 127.0.0.1:40703
+1664435770470	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37863" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilel77kkc"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664435771597	Marionette	INFO	Marionette enabled
+1664435771605	Marionette	INFO	Listening on port 46613
+Read port: 46613
+WebDriver BiDi listening on ws://127.0.0.1:37863
+1664435771886	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilel77kkc/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:37863/devtools/browser/716ea148-0bbb-4516-ac49-e569d83e4661
+1664435785952	Marionette	INFO	Stopped listening on port 35809
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664435789202	Marionette	INFO	Stopped listening on port 46613
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664435798129	geckodriver	INFO	Listening on 127.0.0.1:41771
+1664435798700	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56783" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJrv0IO"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664435799718	Marionette	INFO	Marionette enabled
+1664435799724	Marionette	INFO	Listening on port 45425
+Read port: 45425
+WebDriver BiDi listening on ws://127.0.0.1:56783
+1664435799957	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJrv0IO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56783/devtools/browser/00b04eba-d14f-46bd-af89-5d1e61ef8c60
+1664436145936	geckodriver	INFO	Listening on 127.0.0.1:52015
+1664436146026	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36501" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesKpmPE"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664436147504	Marionette	INFO	Marionette enabled
+1664436147521	Marionette	INFO	Listening on port 40563
+Read port: 40563
+WebDriver BiDi listening on ws://127.0.0.1:36501
+1664436147792	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesKpmPE/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:36501/devtools/browser/27f68e98-ff3d-41e9-93f6-32f8845599df
+1664436212559	geckodriver	INFO	Listening on 127.0.0.1:44033
+1664436213131	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55615" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileifXEnM"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664436214359	Marionette	INFO	Marionette enabled
+1664436214366	Marionette	INFO	Listening on port 39649
+Read port: 39649
+WebDriver BiDi listening on ws://127.0.0.1:55615
+1664436214593	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileifXEnM/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55615/devtools/browser/90b3ca76-8ec8-44f2-b322-8a18fd0b17bc
+1664436262250	Marionette	INFO	Stopped listening on port 40563
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664436265602	Marionette	INFO	Stopped listening on port 39649
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664436269901	Marionette	INFO	Stopped listening on port 45425
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664436272508	geckodriver	INFO	Listening on 127.0.0.1:50149
+1664436273089	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42029" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAeMCIO"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664436274248	Marionette	INFO	Marionette enabled
+1664436274255	Marionette	INFO	Listening on port 38601
+Read port: 38601
+WebDriver BiDi listening on ws://127.0.0.1:42029
+1664436274470	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAeMCIO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:42029/devtools/browser/abcf3d6a-2943-4250-9005-afa27181f9a8
+1664436309922	geckodriver	INFO	Listening on 127.0.0.1:33195
+1664436310493	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43133" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOuXpEh"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664436311562	Marionette	INFO	Marionette enabled
+1664436311568	Marionette	INFO	Listening on port 46533
+Read port: 46533
+WebDriver BiDi listening on ws://127.0.0.1:43133
+1664436311807	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOuXpEh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:43133/devtools/browser/cac93968-a193-4bb6-ac66-894a6cabf8ff
+1664436400967	geckodriver	INFO	Listening on 127.0.0.1:43881
+1664436401577	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41333" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemBaVnx"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664436402881	Marionette	INFO	Marionette enabled
+1664436402887	Marionette	INFO	Listening on port 45115
+Read port: 45115
+WebDriver BiDi listening on ws://127.0.0.1:41333
+1664436403094	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemBaVnx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:41333/devtools/browser/c80f8d18-967a-439e-bce1-021e1f1448a3
+1664436438673	geckodriver	INFO	Listening on 127.0.0.1:53447
+1664436438776	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36835" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileWir9Kr"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664436439954	Marionette	INFO	Marionette enabled
+1664436439961	Marionette	INFO	Listening on port 37425
+Read port: 37425
+WebDriver BiDi listening on ws://127.0.0.1:36835
+1664436440164	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWir9Kr/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:36835/devtools/browser/5e94df88-d27a-4456-b3d4-f8698affc2ad
+1664436497458	geckodriver	INFO	Listening on 127.0.0.1:54835
+1664436498038	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52857" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile37TSmi"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664436499610	Marionette	INFO	Marionette enabled
+1664436499629	Marionette	INFO	Listening on port 32869
+Read port: 32869
+WebDriver BiDi listening on ws://127.0.0.1:52857
+1664436499984	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile37TSmi/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52857/devtools/browser/6c5b766d-9076-477e-b246-de0238c01a52
+1664436512583	Marionette	INFO	Stopped listening on port 38601
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1664436514505	Marionette	INFO	Stopped listening on port 46533
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664436517841	Marionette	INFO	Stopped listening on port 45115
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664436520248	Marionette	INFO	Stopped listening on port 37425
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664436521999	Marionette	INFO	Stopped listening on port 32869
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664436684287	geckodriver	INFO	Listening on 127.0.0.1:43179
+1664436684862	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43231" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepT6iKc"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664436685926	Marionette	INFO	Marionette enabled
+1664436685935	Marionette	INFO	Listening on port 42495
+Read port: 42495
+WebDriver BiDi listening on ws://127.0.0.1:43231
+1664436686173	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepT6iKc/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:43231/devtools/browser/86119fb8-2bb0-4167-89c3-6ce69b378b8a
+1664436692181	geckodriver	INFO	Listening on 127.0.0.1:44569
+1664436692756	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52015" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTAhL8B"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664436693782	Marionette	INFO	Marionette enabled
+1664436693788	Marionette	INFO	Listening on port 46643
+Read port: 46643
+WebDriver BiDi listening on ws://127.0.0.1:52015
+1664436693989	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTAhL8B/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52015/devtools/browser/3b37ae47-c67e-490f-b2d7-1329b9626573
+1664436953780	geckodriver	INFO	Listening on 127.0.0.1:58457
+1664436954350	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39425" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewHJFJ0"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664436955370	Marionette	INFO	Marionette enabled
+1664436955377	Marionette	INFO	Listening on port 38335
+Read port: 38335
+WebDriver BiDi listening on ws://127.0.0.1:39425
+1664436955598	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewHJFJ0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:39425/devtools/browser/2d4f7d30-3fbd-4803-82da-4f24d55998cd
+1664437140016	geckodriver	INFO	Listening on 127.0.0.1:34183
+1664437140600	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58419" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebh7bbc"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664437141913	Marionette	INFO	Marionette enabled
+1664437141920	Marionette	INFO	Listening on port 34141
+Read port: 34141
+WebDriver BiDi listening on ws://127.0.0.1:58419
+1664437142234	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebh7bbc/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58419/devtools/browser/e4b8f1aa-27fa-41cf-96a7-dc146d0b8156
+1664437161683	Marionette	INFO	Stopped listening on port 46643
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664437163683	Marionette	INFO	Stopped listening on port 42495
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664437166454	Marionette	INFO	Stopped listening on port 38335
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664437169511	Marionette	INFO	Stopped listening on port 34141
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664437380993	geckodriver	INFO	Listening on 127.0.0.1:57299
+1664437381592	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58653" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7CzYWH"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664437383401	Marionette	INFO	Marionette enabled
+1664437383407	Marionette	INFO	Listening on port 33109
+Read port: 33109
+WebDriver BiDi listening on ws://127.0.0.1:58653
+1664437383665	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7CzYWH/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58653/devtools/browser/20719d1e-012d-4d85-b07c-37badf07f1af
+1664437402930	geckodriver	INFO	Listening on 127.0.0.1:45067
+1664437403506	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37775" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezJX0Tc"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664437404541	Marionette	INFO	Marionette enabled
+1664437404547	Marionette	INFO	Listening on port 35901
+Read port: 35901
+WebDriver BiDi listening on ws://127.0.0.1:37775
+1664437404756	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezJX0Tc/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:37775/devtools/browser/df8f24c0-62ff-4b3f-b1b0-8ed9671eae16
+1664437410394	Marionette	INFO	Stopped listening on port 33109
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664437413836	Marionette	INFO	Stopped listening on port 35901
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664437463561	geckodriver	INFO	Listening on 127.0.0.1:48463
+1664437464129	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36687" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileM5Gyr3"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664437465109	Marionette	INFO	Marionette enabled
+1664437465115	Marionette	INFO	Listening on port 39857
+Read port: 39857
+WebDriver BiDi listening on ws://127.0.0.1:36687
+1664437465333	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileM5Gyr3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:36687/devtools/browser/ceb1695b-6a93-46d9-80bb-47c6ab2882a1
+1664437493304	geckodriver	INFO	Listening on 127.0.0.1:58449
+1664437493884	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40581" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepJfzmP"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664437494896	Marionette	INFO	Marionette enabled
+1664437494904	Marionette	INFO	Listening on port 38223
+Read port: 38223
+WebDriver BiDi listening on ws://127.0.0.1:40581
+1664437495199	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepJfzmP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:40581/devtools/browser/68e216dc-af2b-4747-b1ee-563ea0a64541
+1664437516800	geckodriver	INFO	Listening on 127.0.0.1:39633
+1664437517374	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37939" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOp9lUA"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664437518434	Marionette	INFO	Marionette enabled
+1664437518441	Marionette	INFO	Listening on port 39179
+Read port: 39179
+WebDriver BiDi listening on ws://127.0.0.1:37939
+1664437518665	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOp9lUA/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:37939/devtools/browser/76486219-869d-473d-82f1-b99ff2df4e5f
+1664437629662	geckodriver	INFO	Listening on 127.0.0.1:57407
+1664437630245	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55783" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGT9v1l"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664437631403	Marionette	INFO	Marionette enabled
+1664437631410	Marionette	INFO	Listening on port 43097
+Read port: 43097
+WebDriver BiDi listening on ws://127.0.0.1:55783
+1664437631617	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGT9v1l/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55783/devtools/browser/e6169e0f-850e-4b0b-ae92-7edf5896226e
+1664437639235	Marionette	INFO	Stopped listening on port 39179
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664437640108	Marionette	INFO	Stopped listening on port 38223
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1664437648295	Marionette	INFO	Stopped listening on port 43097
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1664437650197	Marionette	INFO	Stopped listening on port 39857
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664437850636	geckodriver	INFO	Listening on 127.0.0.1:38195
+1664437851227	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44859" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileq6k1AJ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664437852321	Marionette	INFO	Marionette enabled
+1664437852328	Marionette	INFO	Listening on port 38923
+Read port: 38923
+WebDriver BiDi listening on ws://127.0.0.1:44859
+1664437852585	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileq6k1AJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:44859/devtools/browser/a5b1cdfc-9b87-45ad-9ae7-735df4491d2a
+1664437934300	geckodriver	INFO	Listening on 127.0.0.1:40937
+1664437934899	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35441" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRZWI8Z"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664437936421	Marionette	INFO	Marionette enabled
+1664437936434	Marionette	INFO	Listening on port 43375
+Read port: 43375
+WebDriver BiDi listening on ws://127.0.0.1:35441
+1664437936781	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRZWI8Z/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:35441/devtools/browser/c472fb39-1ea2-4298-8d6c-007b69afe89b
+1664437997139	geckodriver	INFO	Listening on 127.0.0.1:50561
+1664437997710	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35927" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilef7BeLP"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664437998717	Marionette	INFO	Marionette enabled
+1664437998723	Marionette	INFO	Listening on port 46311
+Read port: 46311
+WebDriver BiDi listening on ws://127.0.0.1:35927
+1664437998928	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilef7BeLP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:35927/devtools/browser/3230f619-01b8-4cdc-81eb-9ae69693123a
+1664438002889	Marionette	INFO	Stopped listening on port 43375
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664438005138	Marionette	INFO	Stopped listening on port 38923
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664438084660	geckodriver	INFO	Listening on 127.0.0.1:56275
+1664438085234	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56401" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezlEy9M"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664438086274	Marionette	INFO	Marionette enabled
+1664438086281	Marionette	INFO	Listening on port 33813
+Read port: 33813
+WebDriver BiDi listening on ws://127.0.0.1:56401
+1664438086511	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezlEy9M/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56401/devtools/browser/617d19e1-1995-4217-9f29-491e17d2f4df
+1664438420623	geckodriver	INFO	Listening on 127.0.0.1:52873
+1664438421195	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34459" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileUb8CYP"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664438422214	Marionette	INFO	Marionette enabled
+1664438422220	Marionette	INFO	Listening on port 44739
+Read port: 44739
+WebDriver BiDi listening on ws://127.0.0.1:34459
+1664438422442	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUb8CYP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34459/devtools/browser/eb71ef98-fbd6-4343-8e40-a557a06a1708
+1664438492770	geckodriver	INFO	Listening on 127.0.0.1:46741
+1664438493365	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46751" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefSpPXd"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664438494702	Marionette	INFO	Marionette enabled
+1664438494710	Marionette	INFO	Listening on port 34689
+Read port: 34689
+WebDriver BiDi listening on ws://127.0.0.1:46751
+1664438494946	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1664438495179	Marionette	INFO	Stopped listening on port 44739
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefSpPXd/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:46751/devtools/browser/99202679-96a2-4ab5-8b51-78697c38708b
+1664438498026	Marionette	INFO	Stopped listening on port 33813
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664438500985	Marionette	INFO	Stopped listening on port 46311
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664438519354	geckodriver	INFO	Listening on 127.0.0.1:41099
+1664438519936	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46109" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebZG9Tz"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664438521092	Marionette	INFO	Marionette enabled
+1664438521099	Marionette	INFO	Listening on port 44173
+Read port: 44173
+WebDriver BiDi listening on ws://127.0.0.1:46109
+1664438521328	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebZG9Tz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:46109/devtools/browser/96317ac6-a121-41cc-bb1e-5a1bc4d43438
+1664438525121	Marionette	INFO	Stopped listening on port 34689
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1664438626213	geckodriver	INFO	Listening on 127.0.0.1:33733
+1664438626789	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42671" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile8w06TR"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664438627814	Marionette	INFO	Marionette enabled
+1664438627821	Marionette	INFO	Listening on port 38645
+Read port: 38645
+WebDriver BiDi listening on ws://127.0.0.1:42671
+1664438628069	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8w06TR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:42671/devtools/browser/e3f09f4a-1103-4a89-9af5-8e8009e9d565
+1664438630904	Marionette	INFO	Stopped listening on port 44173
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664438670777	geckodriver	INFO	Listening on 127.0.0.1:57897
+1664438671355	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48681" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileUGTjlR"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664438672438	Marionette	INFO	Marionette enabled
+1664438672446	Marionette	INFO	Listening on port 41335
+Read port: 41335
+WebDriver BiDi listening on ws://127.0.0.1:48681
+1664438672686	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUGTjlR/search.json.mozlz4", (void 0)))
+1664438673930	Marionette	INFO	Stopped listening on port 38645
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+DevTools listening on ws://127.0.0.1:48681/devtools/browser/403e4252-bc08-4ecf-91e6-317641399b65
+1664438677240	geckodriver	INFO	Listening on 127.0.0.1:46967
+1664438677813	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46047" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileE7jxPX"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664438678835	Marionette	INFO	Marionette enabled
+1664438678841	Marionette	INFO	Listening on port 39385
+Read port: 39385
+WebDriver BiDi listening on ws://127.0.0.1:46047
+1664438679055	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileE7jxPX/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:46047/devtools/browser/b05a0218-1a1e-4095-b69d-096e39ec0b1c
+1664438809990	geckodriver	INFO	Listening on 127.0.0.1:58959
+1664438810560	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33615" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHZpDfT"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664438811553	Marionette	INFO	Marionette enabled
+1664438811559	Marionette	INFO	Listening on port 41559
+Read port: 41559
+WebDriver BiDi listening on ws://127.0.0.1:33615
+1664438811773	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHZpDfT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:33615/devtools/browser/4d616574-80be-4019-a1b1-dfc04da79df6
+1664438856609	geckodriver	INFO	Listening on 127.0.0.1:58951
+1664438857184	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34077" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilescPpoH"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664438858152	Marionette	INFO	Marionette enabled
+1664438858159	Marionette	INFO	Listening on port 33363
+Read port: 33363
+WebDriver BiDi listening on ws://127.0.0.1:34077
+1664438858378	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilescPpoH/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34077/devtools/browser/f5659a77-0ca4-4df1-b992-5bfbede11f1f
+1664438886358	geckodriver	INFO	Listening on 127.0.0.1:47621
+1664438886957	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40251" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileYwFulU"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664438888114	Marionette	INFO	Marionette enabled
+1664438888123	Marionette	INFO	Listening on port 44387
+Read port: 44387
+WebDriver BiDi listening on ws://127.0.0.1:40251
+1664438888356	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYwFulU/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:40251/devtools/browser/643016e4-f59e-4531-af7c-c405e9944159
+1664438897562	Marionette	INFO	Stopped listening on port 33363
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664438898625	Marionette	INFO	Stopped listening on port 41559
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664438899337	Marionette	INFO	Stopped listening on port 39385
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664438901049	Marionette	INFO	Stopped listening on port 41335
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664438920300	geckodriver	INFO	Listening on 127.0.0.1:55339
+1664438920870	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35215" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFTbqej"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664438921863	Marionette	INFO	Marionette enabled
+1664438921870	Marionette	INFO	Listening on port 37167
+Read port: 37167
+WebDriver BiDi listening on ws://127.0.0.1:35215
+1664438922076	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFTbqej/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:35215/devtools/browser/0a212dc4-bc22-4043-a1c7-3988e3b68f12
+1664439048854	geckodriver	INFO	Listening on 127.0.0.1:52469
+1664439049426	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35237" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJQ1vgd"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664439050481	Marionette	INFO	Marionette enabled
+1664439050490	Marionette	INFO	Listening on port 36549
+Read port: 36549
+WebDriver BiDi listening on ws://127.0.0.1:35237
+1664439050703	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJQ1vgd/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:35237/devtools/browser/cc27f4ca-9cee-4578-85b0-c42fced76295
+1664439076901	geckodriver	INFO	Listening on 127.0.0.1:45963
+1664439077470	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34023" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilerzKbiC"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664439078514	Marionette	INFO	Marionette enabled
+1664439078522	Marionette	INFO	Listening on port 34385
+Read port: 34385
+WebDriver BiDi listening on ws://127.0.0.1:34023
+1664439078717	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerzKbiC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34023/devtools/browser/102eb152-afe0-45c4-bbae-57a515cd2696
+1664439081610	Marionette	INFO	Stopped listening on port 44387
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1664439082265	Marionette	INFO	Stopped listening on port 37167
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1664439082887	Marionette	INFO	Stopped listening on port 36549
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1664439138225	geckodriver	INFO	Listening on 127.0.0.1:60255
+1664439138778	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55875" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFwoqLH"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664439139792	Marionette	INFO	Marionette enabled
+1664439139798	Marionette	INFO	Listening on port 40327
+Read port: 40327
+WebDriver BiDi listening on ws://127.0.0.1:55875
+1664439140007	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFwoqLH/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55875/devtools/browser/2e8ac862-b055-4eb9-bff9-e06b7749e555
+1664439166166	geckodriver	INFO	Listening on 127.0.0.1:49463
+1664439166735	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39707" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile1UsYik"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664439167834	Marionette	INFO	Marionette enabled
+1664439167841	Marionette	INFO	Listening on port 45075
+Read port: 45075
+WebDriver BiDi listening on ws://127.0.0.1:39707
+1664439168079	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1UsYik/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:39707/devtools/browser/136c967d-0dc9-41ea-a8aa-d51607c30b9f
+1664439171964	Marionette	INFO	Stopped listening on port 34385
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1664439172599	Marionette	INFO	Stopped listening on port 40327
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664439321536	geckodriver	INFO	Listening on 127.0.0.1:54321
+1664439322106	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42307" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileE4iTb7"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664439323077	Marionette	INFO	Marionette enabled
+1664439323084	Marionette	INFO	Listening on port 46091
+Read port: 46091
+WebDriver BiDi listening on ws://127.0.0.1:42307
+1664439323309	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileE4iTb7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:42307/devtools/browser/55f24626-3f96-40b2-9581-5ed3d6f446aa
+1664439375462	Marionette	INFO	Stopped listening on port 46091
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664439376370	Marionette	INFO	Stopped listening on port 45075
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1664439379427	geckodriver	INFO	Listening on 127.0.0.1:59747
+1664439379996	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56579" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCFIxOS"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664439380960	Marionette	INFO	Marionette enabled
+1664439380966	Marionette	INFO	Listening on port 36227
+Read port: 36227
+WebDriver BiDi listening on ws://127.0.0.1:56579
+1664439381172	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCFIxOS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56579/devtools/browser/10438c1c-af1f-4745-a9fc-245b30e781b2
+1664439408286	geckodriver	INFO	Listening on 127.0.0.1:58459
+1664439408856	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60417" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNeGeX2"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664439409901	Marionette	INFO	Marionette enabled
+1664439409907	Marionette	INFO	Listening on port 37701
+Read port: 37701
+WebDriver BiDi listening on ws://127.0.0.1:60417
+1664439410113	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNeGeX2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60417/devtools/browser/a1362bed-754d-4dc4-b84d-78b290fe7422
+1664439425546	geckodriver	INFO	Listening on 127.0.0.1:42435
+1664439426115	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52697" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevK5zDG"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664439427090	Marionette	INFO	Marionette enabled
+1664439427096	Marionette	INFO	Listening on port 46191
+Read port: 46191
+WebDriver BiDi listening on ws://127.0.0.1:52697
+1664439427331	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevK5zDG/search.json.mozlz4", (void 0)))
+1664439429414	Marionette	INFO	Stopped listening on port 37701
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+DevTools listening on ws://127.0.0.1:52697/devtools/browser/0eef2670-9c73-4d0b-9a26-e8aef52428ca
+1664439430960	Marionette	INFO	Stopped listening on port 36227
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664439431812	Marionette	INFO	Stopped listening on port 46191
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664439443824	geckodriver	INFO	Listening on 127.0.0.1:40143
+1664439444398	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44031" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFh5764"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664439445491	Marionette	INFO	Marionette enabled
+1664439445509	Marionette	INFO	Listening on port 44787
+Read port: 44787
+WebDriver BiDi listening on ws://127.0.0.1:44031
+1664439445745	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFh5764/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:44031/devtools/browser/02e57b80-595d-4293-857d-32f499abe4d3
+1664439527508	geckodriver	INFO	Listening on 127.0.0.1:52343
+1664439527885	Marionette	INFO	Stopped listening on port 44787
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664439528115	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53551" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileMJPuEw"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664439529359	Marionette	INFO	Marionette enabled
+1664439529366	Marionette	INFO	Listening on port 35177
+Read port: 35177
+WebDriver BiDi listening on ws://127.0.0.1:53551
+1664439529568	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMJPuEw/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53551/devtools/browser/10fe68d5-d68e-4146-995d-2d515d82fc9d
+1664439556685	Marionette	INFO	Stopped listening on port 35177
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664439662261	geckodriver	INFO	Listening on 127.0.0.1:50267
+1664439662836	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52913" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9IXKtZ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664439663836	Marionette	INFO	Marionette enabled
+1664439663842	Marionette	INFO	Listening on port 46797
+Read port: 46797
+WebDriver BiDi listening on ws://127.0.0.1:52913
+1664439664031	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9IXKtZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52913/devtools/browser/2ed218e6-f31d-4e14-9a23-b25e1555d0a7
+1664439690471	geckodriver	INFO	Listening on 127.0.0.1:51019
+1664439690846	Marionette	INFO	Stopped listening on port 46797
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664439691068	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44393" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGcmfeu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664439692287	Marionette	INFO	Marionette enabled
+1664439692295	Marionette	INFO	Listening on port 36783
+Read port: 36783
+WebDriver BiDi listening on ws://127.0.0.1:44393
+1664439692515	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGcmfeu/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:44393/devtools/browser/e996f046-dbe8-463b-8147-eac0e1ba59b0
+1664439787398	geckodriver	INFO	Listening on 127.0.0.1:51383
+1664439787994	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52069" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqRL9sK"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664439789056	Marionette	INFO	Marionette enabled
+1664439789063	Marionette	INFO	Listening on port 34365
+Read port: 34365
+WebDriver BiDi listening on ws://127.0.0.1:52069
+1664439789286	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqRL9sK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52069/devtools/browser/8c3f3b5b-8d45-45bc-b092-f2e284d81d26
+1664439830370	geckodriver	INFO	Listening on 127.0.0.1:49761
+1664439830938	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42193" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5bMFDb"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664439831933	Marionette	INFO	Marionette enabled
+1664439831939	Marionette	INFO	Listening on port 35603
+Read port: 35603
+WebDriver BiDi listening on ws://127.0.0.1:42193
+1664439832149	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5bMFDb/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:42193/devtools/browser/bda9e078-43ea-41eb-aaf7-c4344bf923c9
+1664439836391	Marionette	INFO	Stopped listening on port 36783
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664439884359	geckodriver	INFO	Listening on 127.0.0.1:46619
+1664439884930	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45515" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebaoiPz"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664439885991	Marionette	INFO	Marionette enabled
+1664439886002	Marionette	INFO	Listening on port 42769
+Read port: 42769
+WebDriver BiDi listening on ws://127.0.0.1:45515
+1664439886357	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebaoiPz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:45515/devtools/browser/b281e940-7d5a-4b94-b648-9440df3c67d2
+1664439889321	Marionette	INFO	Stopped listening on port 34365
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664439890714	Marionette	INFO	Stopped listening on port 35603
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664439911362	geckodriver	INFO	Listening on 127.0.0.1:42921
+1664439911934	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56025" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileWyfLgi"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664439913127	Marionette	INFO	Marionette enabled
+1664439913136	Marionette	INFO	Listening on port 36057
+Read port: 36057
+WebDriver BiDi listening on ws://127.0.0.1:56025
+1664439913371	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWyfLgi/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56025/devtools/browser/c8a04a23-67dc-4d27-8ed0-cac760f097d6
+1664440010548	geckodriver	INFO	Listening on 127.0.0.1:38563
+1664440011135	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52245" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile61Ge2I"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664440012182	Marionette	INFO	Marionette enabled
+1664440012189	Marionette	INFO	Listening on port 43197
+Read port: 43197
+WebDriver BiDi listening on ws://127.0.0.1:52245
+1664440012411	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile61Ge2I/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52245/devtools/browser/8f58a899-939f-479c-b9c4-ade128e6bead
+1664440154284	geckodriver	INFO	Listening on 127.0.0.1:48311
+1664440154863	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36435" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile1brIrg"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664440155937	Marionette	INFO	Marionette enabled
+1664440155945	Marionette	INFO	Listening on port 42867
+Read port: 42867
+WebDriver BiDi listening on ws://127.0.0.1:36435
+1664440156188	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1brIrg/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:36435/devtools/browser/ac9749ee-5234-4a96-bb97-2197e4498a3c
+1664440179268	geckodriver	INFO	Listening on 127.0.0.1:54359
+1664440179842	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36237" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLZtR7a"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664440180858	Marionette	INFO	Marionette enabled
+1664440180867	Marionette	INFO	Listening on port 35887
+Read port: 35887
+WebDriver BiDi listening on ws://127.0.0.1:36237
+1664440181084	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLZtR7a/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:36237/devtools/browser/ca971fbe-faec-4a0e-b2d2-68ed1eb65f54
+1664440224202	geckodriver	INFO	Listening on 127.0.0.1:49201
+1664440224786	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36659" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKHk9c1"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664440226558	Marionette	INFO	Marionette enabled
+1664440226565	Marionette	INFO	Listening on port 34015
+Read port: 34015
+WebDriver BiDi listening on ws://127.0.0.1:36659
+1664440226890	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1664440229397	Marionette	INFO	Stopped listening on port 42769
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1664440229916	Marionette	INFO	Stopped listening on port 36057
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1664440230397	Marionette	INFO	Stopped listening on port 43197
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1664440230822	Marionette	INFO	Stopped listening on port 42867
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1664440231427	Marionette	INFO	Stopped listening on port 35887
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKHk9c1/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 766))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 420))
+DevTools listening on ws://127.0.0.1:36659/devtools/browser/0f4dfee9-a8a7-4b5f-9009-1b6f1a607ae4
+1664440254006	geckodriver	INFO	Listening on 127.0.0.1:59993
+1664440254577	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47481" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileUlHhN9"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664440255615	Marionette	INFO	Marionette enabled
+1664440255623	Marionette	INFO	Listening on port 43655
+Read port: 43655
+WebDriver BiDi listening on ws://127.0.0.1:47481
+1664440255923	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUlHhN9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:47481/devtools/browser/1596271c-431c-4dc6-8ebd-354005bf5235
+1664440326166	geckodriver	INFO	Listening on 127.0.0.1:46525
+1664440326252	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53061" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileV8W1mk"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664440327336	Marionette	INFO	Marionette enabled
+1664440327345	Marionette	INFO	Listening on port 42227
+Read port: 42227
+WebDriver BiDi listening on ws://127.0.0.1:53061
+1664440327578	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileV8W1mk/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53061/devtools/browser/688da183-3b25-48b5-9e6f-898100b6728b
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664440544330	Marionette	INFO	Stopped listening on port 42227
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PHttpChannel::Msg_RemoveCorsPreflightCacheEntry Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1664440547451	geckodriver	INFO	Listening on 127.0.0.1:34059
+1664440548023	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47863" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5bpw7v"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664440549074	Marionette	INFO	Marionette enabled
+1664440549080	Marionette	INFO	Listening on port 41529
+Read port: 41529
+WebDriver BiDi listening on ws://127.0.0.1:47863
+1664440549285	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5bpw7v/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:47863/devtools/browser/a3358c6b-5fde-4775-9499-124048010a1f
+1664440609004	geckodriver	INFO	Listening on 127.0.0.1:37025
+1664440609062	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38805" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAPKdS4"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664440610191	Marionette	INFO	Marionette enabled
+1664440610201	Marionette	INFO	Listening on port 34825
+Read port: 34825
+WebDriver BiDi listening on ws://127.0.0.1:38805
+1664440610420	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAPKdS4/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:38805/devtools/browser/e4a90993-e50d-4160-90d1-c2be52c94905
+JavaScript error: , line 0: TypeError: Property 'handleEvent' is not callable.
+1664440731361	geckodriver	INFO	Listening on 127.0.0.1:39439
+1664440731947	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43421" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileL8zPch"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664440733007	Marionette	INFO	Stopped listening on port 41529
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664440733132	Marionette	INFO	Marionette enabled
+1664440733144	Marionette	INFO	Listening on port 40505
+Read port: 40505
+WebDriver BiDi listening on ws://127.0.0.1:43421
+1664440733439	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1664440733597	Marionette	INFO	Stopped listening on port 34825
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileL8zPch/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:43421/devtools/browser/99c854e9-6253-4bac-bfd8-2cb93a50a981
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 183: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1664440762409	geckodriver	INFO	Listening on 127.0.0.1:36819
+1664440762479	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58547" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebXbNJC"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664440763462	Marionette	INFO	Marionette enabled
+1664440763471	Marionette	INFO	Listening on port 45843
+Read port: 45843
+WebDriver BiDi listening on ws://127.0.0.1:58547
+1664440763710	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebXbNJC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58547/devtools/browser/38c65a8a-676e-499c-b3b4-4a661cfe54e7
+1664440926261	geckodriver	INFO	Listening on 127.0.0.1:33009
+1664440926835	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45461" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileILzfbS"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664440927837	Marionette	INFO	Marionette enabled
+1664440927844	Marionette	INFO	Listening on port 36213
+Read port: 36213
+WebDriver BiDi listening on ws://127.0.0.1:45461
+1664440928027	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileILzfbS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:45461/devtools/browser/2933797a-4af4-4f87-ab7d-e19f6d839050
+1664440934685	geckodriver	INFO	Listening on 127.0.0.1:44229
+1664440935258	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58083" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileYPyGFh"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664440936370	Marionette	INFO	Marionette enabled
+1664440936376	Marionette	INFO	Listening on port 33033
+Read port: 33033
+WebDriver BiDi listening on ws://127.0.0.1:58083
+1664440936593	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYPyGFh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58083/devtools/browser/a40220bb-6377-4cfd-b957-647b255f2fe5
+JavaScript error: , line 0: TypeError: Property 'handleEvent' is not callable.
+1664440990316	geckodriver	INFO	Listening on 127.0.0.1:35945
+1664440990913	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48303" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFS16lM"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664440991951	Marionette	INFO	Marionette enabled
+1664440991957	Marionette	INFO	Listening on port 34747
+Read port: 34747
+WebDriver BiDi listening on ws://127.0.0.1:48303
+1664440992184	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFS16lM/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:48303/devtools/browser/bf96f9b9-b568-46fc-ab78-9c3b52ec0bd4
+1664441032614	geckodriver	INFO	Listening on 127.0.0.1:40529
+1664441033231	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38583" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileiZRvPg"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664441034358	Marionette	INFO	Marionette enabled
+1664441034368	Marionette	INFO	Listening on port 39205
+Read port: 39205
+WebDriver BiDi listening on ws://127.0.0.1:38583
+1664441034576	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiZRvPg/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:38583/devtools/browser/7c523e04-6e18-41c9-81cd-f7ab0a8d8aa2
+JavaScript error: https://ratings.tankionline.com/ru/user/Sniper, line 77: Error: Loading chunk 6 failed.
+(error: https://ratings.tankionline.com/assets/app-i18n-ru.a66483a2.js)
