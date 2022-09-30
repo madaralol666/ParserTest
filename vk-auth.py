@@ -42,7 +42,6 @@ try:
 
     time.sleep(2)
 
-#мега мув 3000
     driver.get('https://m.vk.com')
     
 except Exception as ex:
