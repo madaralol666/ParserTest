@@ -12,10 +12,10 @@ import os
 # в стары бразуерах можно сразу login/pass
 # в новых динамические ссылки то есть SMS код
 
-useragent = fake_useragent.UserAgent().random #пока нам не нужен, нашел work client
+useragent = fake_useragent.UserAgent().firefox
 service_geck = Service(executable_path=r'geck/geckodriver.exe', log_path=os.devnull)
 options_user = Options()
-options_user.set_preference("general.useragent.override", 'Mozilla/5.0 (X11; CrOS i686 4319.74.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.57 Safari/537.36')
+options_user.set_preference("general.useragent.override", useragent)
 options_user.set_preference("javascript.enabled", True)
 
 driver = webdriver.Firefox(service=service_geck, options=options_user)
