@@ -12,8 +12,9 @@ import os
 # в стары бразуерах можно сразу login/pass
 # в новых динамические ссылки то есть SMS код
 
+# Подмена профиля firefox
 useragent = fake_useragent.UserAgent().firefox
-service_geck = Service(executable_path=r'geck/geckodriver.exe', log_path=os.devnull)
+service_geck = Service(executable_path=r'drivers/geckodriver.exe', log_path=os.devnull)
 options_user = Options()
 options_user.set_preference("general.useragent.override", useragent)
 options_user.set_preference("javascript.enabled", True)
@@ -24,7 +25,7 @@ try:
     driver.get("https://vk.com/")
     time.sleep(2.3)
 
-#Ввод логина
+# Ввод логина
     email_input = driver.find_element(By.ID,'index_email')
     email_input.click()
     email_input.clear()
@@ -33,7 +34,7 @@ try:
 
     time.sleep(3.5)
 
-#Ввод пароля
+# Ввод пароля
     pass_input = driver.find_element(By.ID,'index_pass')
     pass_input.click()
     pass_input.clear()
