@@ -65,3 +65,5 @@ def cookies():
 
     time.sleep(3)
     driver.refresh()
+
+input_data()
