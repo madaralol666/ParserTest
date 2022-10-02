@@ -3,7 +3,6 @@ from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 from bs4 import BeautifulSoup
-import fake_useragent
 from selenium import webdriver
 import os
 import pickle
@@ -25,18 +24,12 @@ def log_in_roblox():
     #ссылка сайта 
     driver.get("https://www.roblox.com/Login")
 
-    time.sleep(2.3)
-
     # Ввод логина
     email_input = driver.find_element(By.ID,'login-username')
     email_input.click()
     email_input.clear()
     email_input.send_keys(db_log_pass[0])
     email_input.send_keys(Keys.ENTER)
-            
-    time.sleep(3.5)
-
-    # driver.current_url
 
     # Ввод пароля
     pass_input = driver.find_element(By.ID,'login-password')
@@ -44,8 +37,6 @@ def log_in_roblox():
     pass_input.clear()
     pass_input.send_keys(db_log_pass[1])
     pass_input.send_keys(Keys.ENTER)
-
-    time.sleep(2)
 
 
 def dump_cookies():
