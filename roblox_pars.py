@@ -97,6 +97,8 @@ def main_pars():
 
     # Счет всех предметов(без перехода на другой page(считается только page 1))
     # Работает хорошо, очень долгий(если на акке много предметов) тамй слип можно юзать 3
+    # 1. Сделать мега полный чекер
+    # 2. доработать имеющийся
     for item_extend_href in lst_second_item:
         time.sleep(0.3)
         pars_href = href_Inventory + item_extend_href
