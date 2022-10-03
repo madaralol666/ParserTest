@@ -8,6 +8,7 @@ import os
 import pickle
 import time
 import asyncio
+import aiohttp
 
 # Подмена профиля Firefox + параметры для драйвера
 useragent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0'
@@ -90,42 +91,56 @@ def main_pars():
     ) 
 
 
-def inventory_pars():
+# def inventory_pars():
     
-    # Парсинг инвентаря
-    soup_inventory = driver.page_source
-    bs_soup_inventory = BeautifulSoup(soup_inventory, 'lxml')
-    count_item = 0
-    href_Inventory = bs_soup_inventory.find('a', class_='btn-min-width btn-secondary-xs btn-more inventory-link see-all-link-icon ng-binding').get('href')
-    href_Inventory1 = href_Inventory + '#!/accessories'
-    driver.get(href_Inventory1)
+#     # Парсинг инвентаря
+#     soup_inventory = driver.page_source
+#     bs_soup_inventory = BeautifulSoup(soup_inventory, 'lxml')
+#     count_item = 0
+#     href_Inventory = bs_soup_inventory.find('a', class_='btn-min-width btn-secondary-xs btn-more inventory-link see-all-link-icon ng-binding').get('href')
+#     href_Inventory1 = href_Inventory + '#!/accessories'
+#     driver.get(href_Inventory1)
 
-    html_inventory = driver.page_source
-    soup_item = BeautifulSoup(html_inventory, 'lxml')
+#     html_inventory = driver.page_source
+#     soup_item = BeautifulSoup(html_inventory, 'lxml')
 
-    # Добавление всех  (str)предметов в List 
-    lst_second_item = ['#!/accessories/head']
-    for item_second in range(0, 47):
-        str_second_item = soup_item.find_all('li', class_='menu-secondary-option ng-scope')[item_second].get('href')
-        lst_second_item.append(str_second_item)
+#     # Добавление всех  (str)предметов в List 
+#     lst_second_item = ['#!/accessories/head']
+#     for item_second in range(0, 47):
+#         str_second_item = soup_item.find_all('li', class_='menu-secondary-option ng-scope')[item_second].get('href')
+#         lst_second_item.append(str_second_item)
 
 
-    # Счет всех предметов(без перехода на другой page(считается только page 1))
-    # Работает хорошо, очень долгий(если на акке много предметов) тамй слип можно юзать 3
-    # 1. Сделать мега полный чекер
-    # 2. доработать имеющийся
-    for item_extend_href in lst_second_item:
-        time.sleep(0.5)
-        pars_href = href_Inventory + item_extend_href
-        # pars_href = 'https://www.roblox.com/users/1775781975/inventory/' + item_extend_href
-        driver.get(pars_href)
-        html_item = driver.page_source
-        soup_item = BeautifulSoup(html_item, 'lxml')             
-        items = soup_item.find_all('li', class_='list-item item-card ng-scope')
-        count_item += len(items)
+#     # Счет всех предметов(без перехода на другой page(считается только page 1))
+#     # Работает хорошо, очень долгий(если на акке много предметов) тамй слип можно юзать 3
+#     # 1. Сделать мега полный чекер
+#     # 2. доработать имеющийся
+#     for item_extend_href in lst_second_item:
+#         time.sleep(0.5)
+#         pars_href = href_Inventory + item_extend_href
+#         # pars_href = 'https://www.roblox.com/users/1775781975/inventory/' + item_extend_href
+#         driver.get(pars_href)
+#         html_item = driver.page_source
+#         soup_item = BeautifulSoup(html_item, 'lxml')             
+#         items = soup_item.find_all('li', class_='list-item item-card ng-scope')
+#         count_item += len(items)
         
-    print(count_item)
+#     print(count_item)
+
+
+
 
 main_pars()
 inventory_pars()
 
+async def inventory_pars():
+    Alst_second_item = ['#!/accessories/head']
+    for item_second in range(0, 47):
+        str_second_item = soup_item.find_all('li', class_='menu-secondary-option ng-scope')[item_second].get('href')
+        lst_second_item.append(str_second_item)
+    async with aiohttp.ClientSession() as session:
+        headers={"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0"}
+        response = session.get(url =, headers=headers)
+        lst_count_link = []
+
+        for tab in range(0,47):
