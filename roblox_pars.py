@@ -91,7 +91,7 @@ def main_pars():
     ) 
 
 
-# def inventory_pars():
+def inventory_pars():
     
 #     # Парсинг инвентаря
 #     soup_inventory = driver.page_source
