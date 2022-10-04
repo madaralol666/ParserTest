@@ -49,7 +49,6 @@ def dump_cookies():
 
 def login_via_cookies():
     # Вход через куки
-    driver.get("https://www.roblox.com/Login")
     time.sleep(0.2)
     cookies = pickle.load(open(f"{db_log_pass[0]}_cookies", "rb"))
     
