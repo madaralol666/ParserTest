@@ -1,16 +1,17 @@
 import requests
 from bs4 import BeautifulSoup
 from multiprocessing import pool
-
+from fake_useragent import UserAgent
 date = {
     'name':'madaralol111',
     'name':'3Er53er5!'
 }
+useragent = UserAgent().chrome
+header = {
+    'User-Agent': useragent
+}
 
 # Sign In
-logging = requests.get('https://www.roblox.com/login', auth =('madaralol111', '3Er53er5!'))
-# bs4
-soup_main_html = BeautifulSoup(logging, 'lxml')
-robux = soup_main_html.find('span', id='nav-robux-amount').text
-
-print(robux)
+session = requests.Session()
+response = session.get('https://www.gismeteo.ru/weather-novomoskovsk-11474/', headers=header)
+print(response.json)

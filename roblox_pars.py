@@ -1,3 +1,4 @@
+from itertools import count
 from selenium.webdriver.firefox.service import Service
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.keys import Keys
@@ -7,9 +8,9 @@ from selenium import webdriver
 import os
 import pickle
 import time
-import asyncio
-import aiohttp
+import lst_link
 
+start_time = time.time()
 # Подмена профиля Firefox + параметры для драйвера
 useragent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0'
 service_geck = Service(log_path=os.devnull)
@@ -49,17 +50,14 @@ def dump_cookies():
 def login_via_cookies():
     # Вход через куки
     driver.get("https://www.roblox.com/Login")
-    time.sleep(2)
+    time.sleep(0.2)
     cookies = pickle.load(open(f"{db_log_pass[0]}_cookies", "rb"))
     
     for cookie in cookies:
         driver.add_cookie(cookie)
 
-    time.sleep(3)
     driver.refresh()  
 
-
-login_via_cookies()
 
 def main_pars():
 
@@ -93,54 +91,34 @@ def main_pars():
 
 def inventory_pars():
     
-#     # Парсинг инвентаря
-#     soup_inventory = driver.page_source
-#     bs_soup_inventory = BeautifulSoup(soup_inventory, 'lxml')
-#     count_item = 0
-#     href_Inventory = bs_soup_inventory.find('a', class_='btn-min-width btn-secondary-xs btn-more inventory-link see-all-link-icon ng-binding').get('href')
-#     href_Inventory1 = href_Inventory + '#!/accessories'
-#     driver.get(href_Inventory1)
-
-#     html_inventory = driver.page_source
-#     soup_item = BeautifulSoup(html_inventory, 'lxml')
-
-#     # Добавление всех  (str)предметов в List 
-#     lst_second_item = ['#!/accessories/head']
-#     for item_second in range(0, 47):
-#         str_second_item = soup_item.find_all('li', class_='menu-secondary-option ng-scope')[item_second].get('href')
-#         lst_second_item.append(str_second_item)
+    # Парсинг инвентаря
+    soup_inventory = driver.page_source
+    bs_soup_inventory = BeautifulSoup(soup_inventory, 'lxml')
+    href_Inventory = bs_soup_inventory.find('a', id='nav-inventory').get('href')
 
 
-#     # Счет всех предметов(без перехода на другой page(считается только page 1))
-#     # Работает хорошо, очень долгий(если на акке много предметов) тамй слип можно юзать 3
-#     # 1. Сделать мега полный чекер
-#     # 2. доработать имеющийся
-#     for item_extend_href in lst_second_item:
-#         time.sleep(0.5)
-#         pars_href = href_Inventory + item_extend_href
-#         # pars_href = 'https://www.roblox.com/users/1775781975/inventory/' + item_extend_href
-#         driver.get(pars_href)
-#         html_item = driver.page_source
-#         soup_item = BeautifulSoup(html_item, 'lxml')             
-#         items = soup_item.find_all('li', class_='list-item item-card ng-scope')
-#         count_item += len(items)
+    # Счет всех предметов(без перехода на другой page(считается только page 1))
+    # Работает хорошо, очень долгий(если на акке много предметов) тамй слип можно юзать 3
+    # 1. Сделать мега полный чекер
+    # 2. доработать имеющийся
+    count_item = 0
+    for item_extend_href in lst_link.lst_second_item:
+        pars_href = href_Inventory + '/' + item_extend_href
+        # pars_href = 'https://www.roblox.com/users/1775781975/inventory/' + item_extend_href
+        driver.get(pars_href)
+        html_item = driver.page_source
+        soup_item = BeautifulSoup(html_item, 'lxml')
+        items = soup_item.find_all('li', class_='list-item item-card ng-scope') 
+        items = soup_item.parent('li', class_='list-item item-card ng-scope')  
+        # items = soup_item.find_all('li', class_='list-item item-card ng-scope')
+        count_item += len(items)
         
-#     print(count_item)
+        
+    print(count_item)
 
 
 
-
+login_via_cookies()
 main_pars()
 inventory_pars()
-
-async def inventory_pars():
-    Alst_second_item = ['#!/accessories/head']
-    for item_second in range(0, 47):
-        str_second_item = soup_item.find_all('li', class_='menu-secondary-option ng-scope')[item_second].get('href')
-        lst_second_item.append(str_second_item)
-    async with aiohttp.ClientSession() as session:
-        headers={"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0"}
-        response = session.get(url =, headers=headers)
-        lst_count_link = []
-
-        for tab in range(0,47):
+print("--- %s seconds ---" % (time.time() - start_time))
