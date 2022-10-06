@@ -151,4 +151,3 @@ def inventory_pars():
 
 login_via_cookies()
 inventory_pars()
-print("--- %s seconds ---" % (time.time() - start_time))
